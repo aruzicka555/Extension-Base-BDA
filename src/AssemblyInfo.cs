@@ -5,6 +5,7 @@
 // associated with an assembly.
 [assembly: AssemblyTitle("Base BDA Extension")]
 
+[assembly: AssemblyDescription("Extension Base-BDA")]
 
 // Version information for an assembly consists of the following four values:
 //
